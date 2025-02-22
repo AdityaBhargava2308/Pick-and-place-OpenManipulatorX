@@ -10,4 +10,4 @@ Second terminal:
 	source install/setup.bash
 	ros2 run omx_pick_place omx_pick_place 
 
-
+Youtube demonstration link: https://youtu.be/4GbxXxYktpY
