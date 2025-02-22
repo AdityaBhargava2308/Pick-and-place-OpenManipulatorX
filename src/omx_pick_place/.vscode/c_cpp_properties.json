@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/aditya/ExperimentalRobotics_ws/install/interface_for_practical2/include/**",
+        "/home/aditya/xarm6_ws/install/xarm_planner/include/**",
+        "/home/aditya/xarm6_ws/install/xarm_gazebo/include/**",
+        "/home/aditya/xarm6_ws/install/xarm_controller/include/**",
+        "/home/aditya/xarm6_ws/install/xarm_api/include/**",
+        "/home/aditya/xarm6_ws/install/xarm_msgs/include/**",
+        "/home/aditya/xarm6_ws/install/realsense_gazebo_plugin/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/aditya/ExperimentalRobotics_ws/src/omx_pick_place/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

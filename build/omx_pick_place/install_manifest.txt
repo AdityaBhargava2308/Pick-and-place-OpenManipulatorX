@@ -1,0 +1,16 @@
+/home/aditya/omx_pick_and_pace_ws/install/omx_pick_place/lib/omx_pick_place/omx_pick_place
+/home/aditya/omx_pick_and_pace_ws/install/omx_pick_place/share/ament_index/resource_index/package_run_dependencies/omx_pick_place
+/home/aditya/omx_pick_and_pace_ws/install/omx_pick_place/share/ament_index/resource_index/parent_prefix_path/omx_pick_place
+/home/aditya/omx_pick_and_pace_ws/install/omx_pick_place/share/omx_pick_place/environment/ament_prefix_path.sh
+/home/aditya/omx_pick_and_pace_ws/install/omx_pick_place/share/omx_pick_place/environment/ament_prefix_path.dsv
+/home/aditya/omx_pick_and_pace_ws/install/omx_pick_place/share/omx_pick_place/environment/path.sh
+/home/aditya/omx_pick_and_pace_ws/install/omx_pick_place/share/omx_pick_place/environment/path.dsv
+/home/aditya/omx_pick_and_pace_ws/install/omx_pick_place/share/omx_pick_place/local_setup.bash
+/home/aditya/omx_pick_and_pace_ws/install/omx_pick_place/share/omx_pick_place/local_setup.sh
+/home/aditya/omx_pick_and_pace_ws/install/omx_pick_place/share/omx_pick_place/local_setup.zsh
+/home/aditya/omx_pick_and_pace_ws/install/omx_pick_place/share/omx_pick_place/local_setup.dsv
+/home/aditya/omx_pick_and_pace_ws/install/omx_pick_place/share/omx_pick_place/package.dsv
+/home/aditya/omx_pick_and_pace_ws/install/omx_pick_place/share/ament_index/resource_index/packages/omx_pick_place
+/home/aditya/omx_pick_and_pace_ws/install/omx_pick_place/share/omx_pick_place/cmake/omx_pick_placeConfig.cmake
+/home/aditya/omx_pick_and_pace_ws/install/omx_pick_place/share/omx_pick_place/cmake/omx_pick_placeConfig-version.cmake
+/home/aditya/omx_pick_and_pace_ws/install/omx_pick_place/share/omx_pick_place/package.xml

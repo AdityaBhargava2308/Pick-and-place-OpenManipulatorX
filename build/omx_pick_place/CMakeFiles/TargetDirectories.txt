@@ -1,0 +1,10 @@
+/home/aditya/omx_pick_and_pace_ws/build/omx_pick_place/CMakeFiles/uninstall.dir
+/home/aditya/omx_pick_and_pace_ws/build/omx_pick_place/CMakeFiles/omx_pick_place_uninstall.dir
+/home/aditya/omx_pick_and_pace_ws/build/omx_pick_place/CMakeFiles/omx_pick_place.dir
+/home/aditya/omx_pick_and_pace_ws/build/omx_pick_place/CMakeFiles/test.dir
+/home/aditya/omx_pick_and_pace_ws/build/omx_pick_place/CMakeFiles/edit_cache.dir
+/home/aditya/omx_pick_and_pace_ws/build/omx_pick_place/CMakeFiles/rebuild_cache.dir
+/home/aditya/omx_pick_and_pace_ws/build/omx_pick_place/CMakeFiles/list_install_components.dir
+/home/aditya/omx_pick_and_pace_ws/build/omx_pick_place/CMakeFiles/install.dir
+/home/aditya/omx_pick_and_pace_ws/build/omx_pick_place/CMakeFiles/install/local.dir
+/home/aditya/omx_pick_and_pace_ws/build/omx_pick_place/CMakeFiles/install/strip.dir

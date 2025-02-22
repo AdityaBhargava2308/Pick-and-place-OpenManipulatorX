@@ -1,0 +1,72 @@
+[0.015s] Invoking command in '/home/aditya/omx_pick_and_pace_ws/build/pick_place_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aditya/ExperimentalRobotics_ws/install/task_one:/home/aditya/ExperimentalRobotics_ws/install/task_2:/home/aditya/ExperimentalRobotics_ws/install/task_1:/home/aditya/ExperimentalRobotics_ws/install/practical9:/home/aditya/ExperimentalRobotics_ws/install/practical8:/home/aditya/ExperimentalRobotics_ws/install/practical7:/home/aditya/ExperimentalRobotics_ws/install/practical6:/home/aditya/ExperimentalRobotics_ws/install/practical5:/home/aditya/ExperimentalRobotics_ws/install/practical3:/home/aditya/ExperimentalRobotics_ws/install/practical2:/home/aditya/ExperimentalRobotics_ws/install/practical1:/home/aditya/ExperimentalRobotics_ws/install/major1:/home/aditya/ExperimentalRobotics_ws/install/aditya_pkg:/home/aditya/xarm6_ws/install/my_solution:/home/aditya/xarm6_ws/install/trial:/home/aditya/xarm6_ws/install/uf_ros_lib:/opt/ros/humble /usr/bin/cmake /home/aditya/omx_pick_and_pace_ws/src/pick_place_pkg -DCMAKE_INSTALL_PREFIX=/home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg
+[0.068s] -- The C compiler identification is GNU 11.4.0
+[0.122s] -- The CXX compiler identification is GNU 11.4.0
+[0.129s] -- Detecting C compiler ABI info
+[0.196s] -- Detecting C compiler ABI info - done
+[0.204s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.204s] -- Detecting C compile features
+[0.205s] -- Detecting C compile features - done
+[0.208s] -- Detecting CXX compiler ABI info
+[0.284s] -- Detecting CXX compiler ABI info - done
+[0.291s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.292s] -- Detecting CXX compile features
+[0.292s] -- Detecting CXX compile features - done
+[0.297s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.489s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.637s] -- Found rclpy: 3.3.15 (/opt/ros/humble/share/rclpy/cmake)
+[0.643s] -- Found trajectory_msgs: 4.2.4 (/opt/ros/humble/share/trajectory_msgs/cmake)
+[0.724s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.735s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.750s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.769s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.794s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.867s] -- Found sensor_msgs: 4.2.4 (/opt/ros/humble/share/sensor_msgs/cmake)
+[0.887s] -- Found std_srvs: 4.2.4 (/opt/ros/humble/share/std_srvs/cmake)
+[0.899s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.008s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.009s] -- Added test 'lint_cmake' to check CMake code style
+[1.010s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.011s] -- Added test 'xmllint' to check XML markup files
+[1.013s] -- Configuring done
+[1.016s] -- Generating done
+[1.018s] -- Build files have been written to: /home/aditya/omx_pick_and_pace_ws/build/pick_place_pkg
+[1.026s] Invoked command in '/home/aditya/omx_pick_and_pace_ws/build/pick_place_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aditya/ExperimentalRobotics_ws/install/task_one:/home/aditya/ExperimentalRobotics_ws/install/task_2:/home/aditya/ExperimentalRobotics_ws/install/task_1:/home/aditya/ExperimentalRobotics_ws/install/practical9:/home/aditya/ExperimentalRobotics_ws/install/practical8:/home/aditya/ExperimentalRobotics_ws/install/practical7:/home/aditya/ExperimentalRobotics_ws/install/practical6:/home/aditya/ExperimentalRobotics_ws/install/practical5:/home/aditya/ExperimentalRobotics_ws/install/practical3:/home/aditya/ExperimentalRobotics_ws/install/practical2:/home/aditya/ExperimentalRobotics_ws/install/practical1:/home/aditya/ExperimentalRobotics_ws/install/major1:/home/aditya/ExperimentalRobotics_ws/install/aditya_pkg:/home/aditya/xarm6_ws/install/my_solution:/home/aditya/xarm6_ws/install/trial:/home/aditya/xarm6_ws/install/uf_ros_lib:/opt/ros/humble /usr/bin/cmake /home/aditya/omx_pick_and_pace_ws/src/pick_place_pkg -DCMAKE_INSTALL_PREFIX=/home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg
+[1.028s] Invoking command in '/home/aditya/omx_pick_and_pace_ws/build/pick_place_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aditya/ExperimentalRobotics_ws/install/task_one:/home/aditya/ExperimentalRobotics_ws/install/task_2:/home/aditya/ExperimentalRobotics_ws/install/task_1:/home/aditya/ExperimentalRobotics_ws/install/practical9:/home/aditya/ExperimentalRobotics_ws/install/practical8:/home/aditya/ExperimentalRobotics_ws/install/practical7:/home/aditya/ExperimentalRobotics_ws/install/practical6:/home/aditya/ExperimentalRobotics_ws/install/practical5:/home/aditya/ExperimentalRobotics_ws/install/practical3:/home/aditya/ExperimentalRobotics_ws/install/practical2:/home/aditya/ExperimentalRobotics_ws/install/practical1:/home/aditya/ExperimentalRobotics_ws/install/major1:/home/aditya/ExperimentalRobotics_ws/install/aditya_pkg:/home/aditya/xarm6_ws/install/my_solution:/home/aditya/xarm6_ws/install/trial:/home/aditya/xarm6_ws/install/uf_ros_lib:/opt/ros/humble /usr/bin/cmake --build /home/aditya/omx_pick_and_pace_ws/build/pick_place_pkg -- -j8 -l8
+[1.066s] Invoked command in '/home/aditya/omx_pick_and_pace_ws/build/pick_place_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aditya/ExperimentalRobotics_ws/install/task_one:/home/aditya/ExperimentalRobotics_ws/install/task_2:/home/aditya/ExperimentalRobotics_ws/install/task_1:/home/aditya/ExperimentalRobotics_ws/install/practical9:/home/aditya/ExperimentalRobotics_ws/install/practical8:/home/aditya/ExperimentalRobotics_ws/install/practical7:/home/aditya/ExperimentalRobotics_ws/install/practical6:/home/aditya/ExperimentalRobotics_ws/install/practical5:/home/aditya/ExperimentalRobotics_ws/install/practical3:/home/aditya/ExperimentalRobotics_ws/install/practical2:/home/aditya/ExperimentalRobotics_ws/install/practical1:/home/aditya/ExperimentalRobotics_ws/install/major1:/home/aditya/ExperimentalRobotics_ws/install/aditya_pkg:/home/aditya/xarm6_ws/install/my_solution:/home/aditya/xarm6_ws/install/trial:/home/aditya/xarm6_ws/install/uf_ros_lib:/opt/ros/humble /usr/bin/cmake --build /home/aditya/omx_pick_and_pace_ws/build/pick_place_pkg -- -j8 -l8
+[1.076s] Invoking command in '/home/aditya/omx_pick_and_pace_ws/build/pick_place_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aditya/ExperimentalRobotics_ws/install/task_one:/home/aditya/ExperimentalRobotics_ws/install/task_2:/home/aditya/ExperimentalRobotics_ws/install/task_1:/home/aditya/ExperimentalRobotics_ws/install/practical9:/home/aditya/ExperimentalRobotics_ws/install/practical8:/home/aditya/ExperimentalRobotics_ws/install/practical7:/home/aditya/ExperimentalRobotics_ws/install/practical6:/home/aditya/ExperimentalRobotics_ws/install/practical5:/home/aditya/ExperimentalRobotics_ws/install/practical3:/home/aditya/ExperimentalRobotics_ws/install/practical2:/home/aditya/ExperimentalRobotics_ws/install/practical1:/home/aditya/ExperimentalRobotics_ws/install/major1:/home/aditya/ExperimentalRobotics_ws/install/aditya_pkg:/home/aditya/xarm6_ws/install/my_solution:/home/aditya/xarm6_ws/install/trial:/home/aditya/xarm6_ws/install/uf_ros_lib:/opt/ros/humble /usr/bin/cmake --install /home/aditya/omx_pick_and_pace_ws/build/pick_place_pkg
+[1.083s] -- Install configuration: ""
+[1.084s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf
+[1.084s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/omx.urdf
+[1.084s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/cylinder.urdf
+[1.084s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/meshes
+[1.084s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/meshes/chain_link2.stl
+[1.084s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/meshes/chain_link5.stl
+[1.085s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/meshes/chain_link1.stl
+[1.086s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/meshes/chain_link1.obj
+[1.087s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/meshes/chain_link_grip_l.stl
+[1.087s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/meshes/chain_link3.obj
+[1.088s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/meshes/chain_link5.obj
+[1.089s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/meshes/chain_link3.stl
+[1.090s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/meshes/chain_link2.obj
+[1.091s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/meshes/chain_link_grip_r.obj
+[1.091s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/meshes/chain_link_grip_r.stl
+[1.091s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/meshes/chain_link4.stl
+[1.092s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/meshes/chain_link_grip_l.obj
+[1.092s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/meshes/chain_link4.obj
+[1.094s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/lib/pick_place_pkg/omx_sim.py
+[1.094s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/ament_index/resource_index/package_run_dependencies/pick_place_pkg
+[1.094s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/ament_index/resource_index/parent_prefix_path/pick_place_pkg
+[1.094s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg/environment/ament_prefix_path.sh
+[1.094s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg/environment/ament_prefix_path.dsv
+[1.095s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg/environment/path.sh
+[1.095s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg/environment/path.dsv
+[1.095s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg/local_setup.bash
+[1.095s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg/local_setup.sh
+[1.095s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg/local_setup.zsh
+[1.095s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg/local_setup.dsv
+[1.095s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg/package.dsv
+[1.095s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/ament_index/resource_index/packages/pick_place_pkg
+[1.096s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg/cmake/pick_place_pkgConfig.cmake
+[1.096s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg/cmake/pick_place_pkgConfig-version.cmake
+[1.096s] -- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg/package.xml
+[1.098s] Invoked command in '/home/aditya/omx_pick_and_pace_ws/build/pick_place_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aditya/ExperimentalRobotics_ws/install/task_one:/home/aditya/ExperimentalRobotics_ws/install/task_2:/home/aditya/ExperimentalRobotics_ws/install/task_1:/home/aditya/ExperimentalRobotics_ws/install/practical9:/home/aditya/ExperimentalRobotics_ws/install/practical8:/home/aditya/ExperimentalRobotics_ws/install/practical7:/home/aditya/ExperimentalRobotics_ws/install/practical6:/home/aditya/ExperimentalRobotics_ws/install/practical5:/home/aditya/ExperimentalRobotics_ws/install/practical3:/home/aditya/ExperimentalRobotics_ws/install/practical2:/home/aditya/ExperimentalRobotics_ws/install/practical1:/home/aditya/ExperimentalRobotics_ws/install/major1:/home/aditya/ExperimentalRobotics_ws/install/aditya_pkg:/home/aditya/xarm6_ws/install/my_solution:/home/aditya/xarm6_ws/install/trial:/home/aditya/xarm6_ws/install/uf_ros_lib:/opt/ros/humble /usr/bin/cmake --install /home/aditya/omx_pick_and_pace_ws/build/pick_place_pkg

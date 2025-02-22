@@ -1,0 +1,66 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Found rclpy: 3.3.15 (/opt/ros/humble/share/rclpy/cmake)
+-- Found trajectory_msgs: 4.2.4 (/opt/ros/humble/share/trajectory_msgs/cmake)
+-- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found sensor_msgs: 4.2.4 (/opt/ros/humble/share/sensor_msgs/cmake)
+-- Found std_srvs: 4.2.4 (/opt/ros/humble/share/std_srvs/cmake)
+-- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/aditya/omx_pick_and_pace_ws/build/pick_place_pkg
+-- Install configuration: ""
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/omx.urdf
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/cylinder.urdf
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/meshes
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/meshes/chain_link2.stl
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/meshes/chain_link5.stl
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/meshes/chain_link1.stl
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/meshes/chain_link1.obj
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/meshes/chain_link_grip_l.stl
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/meshes/chain_link3.obj
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/meshes/chain_link5.obj
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/meshes/chain_link3.stl
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/meshes/chain_link2.obj
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/meshes/chain_link_grip_r.obj
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/meshes/chain_link_grip_r.stl
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/meshes/chain_link4.stl
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/meshes/chain_link_grip_l.obj
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg//urdf/meshes/chain_link4.obj
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/lib/pick_place_pkg/omx_sim.py
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/ament_index/resource_index/package_run_dependencies/pick_place_pkg
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/ament_index/resource_index/parent_prefix_path/pick_place_pkg
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg/environment/ament_prefix_path.sh
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg/environment/ament_prefix_path.dsv
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg/environment/path.sh
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg/environment/path.dsv
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg/local_setup.bash
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg/local_setup.sh
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg/local_setup.zsh
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg/local_setup.dsv
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg/package.dsv
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/ament_index/resource_index/packages/pick_place_pkg
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg/cmake/pick_place_pkgConfig.cmake
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg/cmake/pick_place_pkgConfig-version.cmake
+-- Installing: /home/aditya/omx_pick_and_pace_ws/install/pick_place_pkg/share/pick_place_pkg/package.xml
